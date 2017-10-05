@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812886121471",
+    "firebase_url": "https://scorer-c1947.firebaseio.com",
+    "project_id": "scorer-c1947",
+    "storage_bucket": "scorer-c1947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812886121471:android:fd605e40b00cdc62",
+        "android_client_info": {
+          "package_name": "com.prabhav.play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812886121471-vqho9ej9jspaf8f8j90bsekjs8o9536m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prabhav.play",
+            "certificate_hash": "16577ef8d91249a710882dea8991d30b8ec8a9ac"
+          }
+        },
+        {
+          "client_id": "812886121471-ap8o8ivl68vlg4qjqg8pnn409hkk93o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD6f2E1EN0oU5syJPFlrl0WmRvbzGYawM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812886121471-ap8o8ivl68vlg4qjqg8pnn409hkk93o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

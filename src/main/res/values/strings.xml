@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Games Calculator</string>
+    <string name="srch"></string>
+    <string name="note"><u>Note</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="teamA">Team-A</string>
+    <string name="teamB">Team-B</string>
+
+
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Team A :"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/cricketTeamANameID"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Enter team Name"
+            android:inputType="textCapWords"
+            android:maxLength="10"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Team B :"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/cricketTeamBNameID"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Enter team Name"
+            android:inputType="textCapWords"
+            android:maxLength="10"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Players :"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/number_of_players"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Enter no. of players"
+            android:inputType="number"
+            android:maxLength="10"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Overs :"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/number_of_overs"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:hint="Enter overs"
+            android:inputType="number"
+            android:maxLength="10"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:text="/"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="#000000" />
+
+        <CheckBox
+            android:id="@+id/test_match"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_weight="1.2"
+            android:text="Test Match" />
+
+    </LinearLayout>
+</LinearLayout>
