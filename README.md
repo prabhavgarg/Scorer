@@ -7,6 +7,7 @@
 ![image](https://github.com/prabhavgarg/Scorer/assets/21111506/b4d79ddb-ecf1-493c-a65c-9348b5d8560f)
 ![image](https://github.com/prabhavgarg/Scorer/assets/21111506/644d31e0-ae11-4280-ae5b-84d2d6db068d)
 ![image](https://github.com/prabhavgarg/Scorer/assets/21111506/f6ecf76a-138b-4256-8609-5269b914d4d7)
+![image](https://github.com/prabhavgarg/Scorer/assets/21111506/112cdfaa-9a2c-4a6e-9f85-794feb599294)
 ![image](https://github.com/prabhavgarg/Scorer/assets/21111506/0b9360b2-2d7f-4eaa-8936-5667a2090480)
 ![image](https://github.com/prabhavgarg/Scorer/assets/21111506/f4e2e24f-24ea-4bd7-989c-610c02c6833e)
 ![image](https://github.com/prabhavgarg/Scorer/assets/21111506/c7979c86-196d-4f4f-ab01-44d426d5a970)
